@@ -1,5 +1,5 @@
 # MusicRating
-Conjunto de serviços em Node.js
+Conjunto de microsserviços em Node.js
 
 Serviços
 -----------------
